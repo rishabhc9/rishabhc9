@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Rishabh Chopda</h1>
-<h3 align="left">A passionate Computer Engineering Student from India</h3>
+<h1 align="center">Hi 👋, I'm Rishabh Chopda</h1>
+<h3 align="center">A passionate Computer Engineering Student from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabhc9](https://github.com/rishabhc9)
 
