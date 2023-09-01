@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabhc9](https://github.com/rishabhc9)
 
-- 📫 How to reach me: **aaditchopda2@gmail.com**
+- 📫 How to reach me: **rishabhchopda79@gmail.com**
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhc9&show_icons=true&locale=en&layout=compact" alt="rishabhc9" /></p>
